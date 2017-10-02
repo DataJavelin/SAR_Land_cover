@@ -10,3 +10,13 @@ Arcgis installed via Anaconda (running in python 3.6.2)
 
 Looked at Arcgis based notebook: https://developers.arcgis.com/python/sample-notebooks/chennai-floods-analysis/
 
+02/10/17
+
+Played around with processing tools. Done geometric correction. Speckle filtering. Radiometric calibration (although it seems to be done in zip?).
+Played around with colours. Made nice looking images, but not clear that they are nice resolution?
+
+Tutorials: http://step.esa.int/main/doc/tutorials/sentinel-1-toolbox-tutorials/
+http://step.esa.int/main/doc/tutorials/snap-tutorials/	
+http://step.esa.int/main/doc/tutorials/
+
+ "added some details of what I played around with"
